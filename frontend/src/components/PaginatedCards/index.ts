@@ -1,0 +1,1 @@
+export { PaginatedCards } from './PaginatedCards';
