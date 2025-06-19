@@ -39,4 +39,3 @@ dist-ssr/
 
 # Postgres dump and other db files
 *.dump
-*.sql
